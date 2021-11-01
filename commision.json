@@ -1,0 +1,47 @@
+{
+ code: 0,
+ message: "user's children have been fetch successfully",
+ status: "SUCCESS",
+ data: [
+ {
+ commission: 0,
+ level: 2,
+ login_id: 33312,
+ name: "Fatih bawahan lv2",
+ parent_id: "609152aeb6ee570132cbf14c",
+ rebate: 0,
+ uid: "609158ddb6ee570132cbf150",
+ volume: 0
+ },
+ {
+ commission: 0,
+ level: 3,
+ login_id: 444321,
+ name: "Fatih Bawahan lv 3",
+ parent_id: "609158ddb6ee570132cbf150",
+ rebate: 0,
+ uid: "60915984b6ee570132cbf152",
+ volume: 0
+ },
+ {
+ commission: 0,
+ level: 1,
+ login_id: 444111,
+ name: "Fatih bawahan",
+ parent_id: "609119eab6ee570132cbf13d",
+ rebate: 0,
+ uid: "609152aeb6ee570132cbf14c",
+ volume: 0
+ },
+ {
+ commission: 0,
+ level: 2,
+ login_id: 444123,
+ name: "Fatih bawahan",
+ parent_id: "609119eab6ee570132cbf13d",
+ rebate: 0,
+ uid: "609152aeb6ee570132cbf14c",
+ volume: 0
+ }
+ ]
+}
